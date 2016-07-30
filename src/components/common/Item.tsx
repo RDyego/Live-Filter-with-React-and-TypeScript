@@ -8,10 +8,10 @@ export const Item = (props:any) =>
           </p>
         </div>
         <div className="row-fluid">
-          <p>{props.title}</p>
+          <p>Title: {props.title}</p>
         </div>
         <div className="row-fluid">
-          <p>Solicitante: {props.requester}</p>
+          <p>Requester: {props.requester}</p>
         </div>
         <div className="row-fluid">
           <p>Status: {props.status}</p>

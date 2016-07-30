@@ -9,7 +9,8 @@ export class Filter extends React.Component<IProps, any> {
         return (
             <div className="control-group fieldcontain">
                 <div className="controls">
-                    <input type="text" placeholder="Search" onChange={this.handleChange} />
+                    <label htmlFor="searchInput">Search:</label>
+                    <input id="searchInput" type="text" placeholder="by requester, author or title" onChange={this.handleChange} />
                 </div>
             </div>
         );
