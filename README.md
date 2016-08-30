@@ -12,8 +12,6 @@ npm install webpack-dev-server -g
 
 npm install typings -g
 
-npm install
-
 typings install
 
 npm start
