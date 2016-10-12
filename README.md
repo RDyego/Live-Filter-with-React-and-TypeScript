@@ -1,5 +1,4 @@
-# testing-react-redux-ts
-React React-Router Redux Typescript Webpack
+# Live-Filter-with-React-and-TypeScript
 
 
 .editorconfig                         -> http://editorconfig.org/
